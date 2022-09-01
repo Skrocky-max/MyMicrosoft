@@ -1,0 +1,6 @@
+#include<iostream.h>
+% 测试续期
+void main()
+{
+    print("test!");
+}
